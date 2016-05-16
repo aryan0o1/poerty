@@ -1,4 +1,2 @@
-{
-"responce": 2,
-"url": "https://ipics32.blogspot.com"
-}
+true
+https://ipics32.blogspot.com
