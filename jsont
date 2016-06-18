@@ -1,0 +1,904 @@
+{
+    "status": "ok",
+    "count": 145,
+    "count_total": 360,
+    "pages": 3,
+    "posts": [
+        {
+            "id": 10560,
+            "type": "post",
+            "slug": "google-fonts-website-gets-a-new-fresh-material-design-look",
+            "url": "http://stacktips.com/news/google-fonts-website-gets-a-new-fresh-material-design-look",
+            "status": "publish",
+            "title": "Google Fonts Website Gets a New Fresh Material Design Look",
+            "title_plain": "Google Fonts Website Gets a New Fresh Material Design Look",
+            "content": "<div class='shareaholic-canvas' data-app-id='24995492' data-app='share_buttons' data-title='Google Fonts Website Gets a New Fresh Material Design Look' data-link='http://stacktips.com/news/google-fonts-website-gets-a-new-fresh-material-design-look' data-summary='Now Google fonts website interface is refreshed with the fresh new material deign look. With the new design, it makes it easy to search a Typography and choose the right typeface of your choice.'></div>\n<p><span class=\"mks_dropcap_letter\">S</span>ince its first release on 2010, Google fonts has been the first choice for web developers. It offers collections of free web fonts (under Apache License and SIL Open Font License) to use on personal and commercial projects.</p>\n<p>Now Google fonts website interface is refreshed with the fresh new material design look. With the new design, it makes it easy to search a Typography, choose the right typeface of your choice or to preview typeface before using on your project. The old list view layout is now revamped to grid layout.</p>\n<p>Typecast is integrated to the grid layout for better preview purpose. You can now resize, change font weight, size and style right there in the grid. The color fill option in the title allows to change the background color to preview typeface in different contrast background.</p>\n<p>Some of the beautiful font inspirations are curated in Featured section. As usual, you can click on plus button(+) to select and download the fonts to desktop or embed the web fonts into your own website.<img class=\"aligncenter wp-image-10564\" src=\"http://stacktips.com/wp-content/uploads/2016/06/Google-Web-Fonts-Material-Design.png\" alt=\"Google Web Fonts- Material Design\" width=\"601\" height=\"575\" srcset=\"http://stacktips.com/wp-content/uploads/2016/06/Google-Web-Fonts-Material-Design.png 601w, http://stacktips.com/wp-content/uploads/2016/06/Google-Web-Fonts-Material-Design-300x287.png 300w, http://stacktips.com/wp-content/uploads/2016/06/Google-Web-Fonts-Material-Design-300x287@2x.png 600w\" sizes=\"(max-width: 601px) 100vw, 601px\" /></p>\n<p>Visit <strong><a href=\"https://fonts.google.com/\" target=\"_blank\">Google Fonts</a></strong>.</p>\n<p>&nbsp;</p>\n",
+            "excerpt": "<p>Now Google fonts website interface is refreshed with the fresh new material deign look. With the new design, it makes it easy to search a Typography and choose the right typeface of your choice.</p>\n",
+            "date": "2016-06-15 21:52:27",
+            "modified": "2016-06-15 22:04:50",
+            "categories": [
+                {
+                    "id": 284,
+                    "slug": "news",
+                    "title": "News &amp; Updates",
+                    "description": "",
+                    "parent": 0,
+                    "post_count": 32
+                }
+            ],
+            "tags": [
+                {
+                    "id": 310,
+                    "slug": "google",
+                    "title": "Google",
+                    "description": "",
+                    "post_count": 1
+                },
+                {
+                    "id": 311,
+                    "slug": "web-fonts",
+                    "title": "Web Fonts",
+                    "description": "",
+                    "post_count": 1
+                }
+            ],
+            "author": {
+                "id": 12,
+                "slug": "nilanchala",
+                "name": "Nilanchala",
+                "first_name": "Nilanchala",
+                "last_name": "Panigrahy",
+                "nickname": "Neel",
+                "url": "http://stacktips.com",
+                "description": "A blogger, a bit of tech freak and a software developer. He is a thought leader in the fusion of design and mobile technologies.  Author of <a href=\"https://www.amazon.co.uk/Xamarin-Mobile-Application-Development-Android/dp/1785280376/280-3721224-4790423\" rel=\"nofollow\">Xamarin Mobile Application Development for Android</a> book, DZone MVB and founder of <a href=\"http://stacktips.com/\">stacktips.com</a>."
+            },
+            "comments": [],
+            "attachments": [
+                {
+                    "id": 10563,
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design.png",
+                    "slug": "google-fonts-website-material-design",
+                    "title": "Google Fonts Website- Material Design",
+                    "description": "Google Fonts Website- Material Design",
+                    "caption": "",
+                    "parent": 10560,
+                    "mime_type": "image/png",
+                    "images": {
+                        "full": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design.png",
+                            "width": 1406,
+                            "height": 786
+                        },
+                        "thumbnail": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-292x194.png",
+                            "width": 292,
+                            "height": 194
+                        },
+                        "medium": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-620x347.png",
+                            "width": 620,
+                            "height": 347
+                        },
+                        "medium_large": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design.png",
+                            "width": 1406,
+                            "height": 786
+                        },
+                        "shareaholic-thumbnail": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-300x168.png",
+                            "width": 300,
+                            "height": 168
+                        },
+                        "vce-lay-a": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-810x453.png",
+                            "width": 810,
+                            "height": 453
+                        },
+                        "vce-lay-a-nosid": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-1140x637.png",
+                            "width": 1140,
+                            "height": 637
+                        },
+                        "vce-lay-b": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-375x195.png",
+                            "width": 375,
+                            "height": 195
+                        },
+                        "vce-lay-d": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-145x100.png",
+                            "width": 145,
+                            "height": 100
+                        },
+                        "vce-fa-full": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-1406x500.png",
+                            "width": 1406,
+                            "height": 500
+                        },
+                        "vce-fa-grid": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-380x260.png",
+                            "width": 380,
+                            "height": 260
+                        }
+                    }
+                },
+                {
+                    "id": 10564,
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Web-Fonts-Material-Design.png",
+                    "slug": "google-web-fonts-material-design",
+                    "title": "Google Web Fonts- Material Design",
+                    "description": "",
+                    "caption": "",
+                    "parent": 10560,
+                    "mime_type": "image/png",
+                    "images": {
+                        "full": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Web-Fonts-Material-Design.png",
+                            "width": 601,
+                            "height": 575
+                        },
+                        "thumbnail": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Web-Fonts-Material-Design-292x194.png",
+                            "width": 292,
+                            "height": 194
+                        },
+                        "medium": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Web-Fonts-Material-Design.png",
+                            "width": 601,
+                            "height": 575
+                        },
+                        "medium_large": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Web-Fonts-Material-Design.png",
+                            "width": 601,
+                            "height": 575
+                        },
+                        "large": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Web-Fonts-Material-Design.png",
+                            "width": 601,
+                            "height": 575
+                        },
+                        "shareaholic-thumbnail": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Web-Fonts-Material-Design-300x287.png",
+                            "width": 300,
+                            "height": 287
+                        },
+                        "vce-lay-a": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Web-Fonts-Material-Design.png",
+                            "width": 601,
+                            "height": 575
+                        },
+                        "vce-lay-a-nosid": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Web-Fonts-Material-Design.png",
+                            "width": 601,
+                            "height": 575
+                        },
+                        "vce-lay-b": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Web-Fonts-Material-Design-375x195.png",
+                            "width": 375,
+                            "height": 195
+                        },
+                        "vce-lay-d": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Web-Fonts-Material-Design-145x100.png",
+                            "width": 145,
+                            "height": 100
+                        },
+                        "vce-fa-full": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Web-Fonts-Material-Design-601x500.png",
+                            "width": 601,
+                            "height": 500
+                        },
+                        "vce-fa-grid": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Web-Fonts-Material-Design-380x260.png",
+                            "width": 380,
+                            "height": 260
+                        }
+                    }
+                }
+            ],
+            "comment_count": 0,
+            "comment_status": "open",
+            "thumbnail": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-292x194.png",
+            "custom_fields": {
+                "snap_isAutoPosted": [
+                    "1"
+                ],
+                "dsq_thread_id": [
+                    "4912720454"
+                ],
+                "snap_MYURL": [
+                    ""
+                ],
+                "snapEdIT": [
+                    "1"
+                ],
+                "snapDL": [
+                    "s:166:\"a:1:{i:0;a:6:{s:2:\"do\";s:1:\"1\";s:10:\"msgTFormat\";s:7:\"%TITLE%\";s:9:\"msgFormat\";s:12:\"%RAWEXCERPT%\";s:9:\"isAutoURL\";s:1:\"A\";s:8:\"urlToUse\";s:0:\"\";s:4:\"doDL\";s:1:\"1\";}}\";"
+                ],
+                "snapFB": [
+                    "s:279:\"a:1:{i:0;a:10:{s:2:\"do\";s:1:\"1\";s:8:\"postType\";s:1:\"I\";s:10:\"AttachPost\";s:1:\"2\";s:10:\"SNAPformat\";s:32:\"%TITLE% - %CATS%\r\n\r\n%RAWEXCERPT%\";s:9:\"isAutoImg\";s:1:\"A\";s:8:\"imgToUse\";s:0:\"\";s:9:\"isAutoURL\";s:1:\"A\";s:8:\"urlToUse\";s:0:\"\";s:4:\"doFB\";s:1:\"1\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "snapIP": [
+                    "s:235:\"a:1:{i:0;a:8:{s:2:\"do\";s:1:\"1\";s:11:\"SNAPformatT\";s:7:\"%TITLE%\";s:10:\"SNAPformat\";s:9:\"%EXCERPT%\";s:4:\"doIP\";s:1:\"1\";s:11:\"isPrePosted\";s:1:\"1\";s:8:\"isPosted\";s:1:\"1\";s:4:\"pgID\";s:9:\"736424361\";s:5:\"pDate\";s:19:\"2016-06-15 16:22:52\";}}\";"
+                ],
+                "snapTW": [
+                    "s:297:\"a:1:{i:0;a:10:{s:2:\"do\";s:1:\"1\";s:10:\"SNAPformat\";s:23:\"%TITLE% -%CATS% \r\n%URL%\";s:8:\"attchImg\";s:1:\"1\";s:9:\"isAutoImg\";s:1:\"A\";s:8:\"imgToUse\";s:0:\"\";s:4:\"doTW\";s:1:\"1\";s:11:\"isPrePosted\";s:1:\"1\";s:8:\"isPosted\";s:1:\"1\";s:4:\"pgID\";s:18:\"743116497678016513\";s:5:\"pDate\";s:19:\"2016-06-15 16:22:54\";}}\";"
+                ],
+                "snapImportedComments": [
+                    "a:0:{}"
+                ]
+            },
+            "thumbnail_size": "thumbnail",
+            "thumbnail_images": {
+                "full": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design.png",
+                    "width": 1406,
+                    "height": 786
+                },
+                "thumbnail": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-292x194.png",
+                    "width": 292,
+                    "height": 194
+                },
+                "medium": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-620x347.png",
+                    "width": 620,
+                    "height": 347
+                },
+                "medium_large": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design.png",
+                    "width": 1406,
+                    "height": 786
+                },
+                "shareaholic-thumbnail": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-300x168.png",
+                    "width": 300,
+                    "height": 168
+                },
+                "vce-lay-a": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-810x453.png",
+                    "width": 810,
+                    "height": 453
+                },
+                "vce-lay-a-nosid": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-1140x637.png",
+                    "width": 1140,
+                    "height": 637
+                },
+                "vce-lay-b": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-375x195.png",
+                    "width": 375,
+                    "height": 195
+                },
+                "vce-lay-d": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-145x100.png",
+                    "width": 145,
+                    "height": 100
+                },
+                "vce-fa-full": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-1406x500.png",
+                    "width": 1406,
+                    "height": 500
+                },
+                "vce-fa-grid": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/Google-Fonts-Website-Material-Design-380x260.png",
+                    "width": 380,
+                    "height": 260
+                }
+            }
+                            "width": 738,
+                            "height": 519
+                        },
+                        "vce-lay-a": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/server-image.jpg",
+                            "width": 738,
+                            "height": 519
+                        },
+                        "vce-lay-a-nosid": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/server-image.jpg",
+                            "width": 738,
+                            "height": 519
+                        },
+                        "vce-lay-b": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/server-image-375x195.jpg",
+                            "width": 375,
+                            "height": 195
+                        },
+                        "vce-lay-d": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/server-image-145x100.jpg",
+                            "width": 145,
+                            "height": 100
+                        },
+                        "vce-fa-full": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/server-image-738x500.jpg",
+                            "width": 738,
+                            "height": 500
+                        },
+                        "vce-fa-grid": {
+                            "url": "http://stacktips.com/wp-content/uploads/2016/06/server-image-380x260.jpg",
+                            "width": 380,
+                            "height": 260
+                        }
+                    }
+                }
+            ],
+            "comment_count": 0,
+            "comment_status": "open",
+            "thumbnail": null,
+            "custom_fields": {
+                "slide_template": [
+                    "default"
+                ],
+                "snap_isAutoPosted": [
+                    "1"
+                ],
+                "dsq_thread_id": [
+                    "4879151497"
+                ],
+                "snap_MYURL": [
+                    ""
+                ],
+                "snapEdIT": [
+                    "1"
+                ],
+                "snapDL": [
+                    "s:166:\"a:1:{i:0;a:6:{s:2:\"do\";s:1:\"1\";s:10:\"msgTFormat\";s:7:\"%TITLE%\";s:9:\"msgFormat\";s:12:\"%RAWEXCERPT%\";s:9:\"isAutoURL\";s:1:\"A\";s:8:\"urlToUse\";s:0:\"\";s:4:\"doDL\";s:1:\"1\";}}\";"
+                ],
+                "snapFB": [
+                    "s:279:\"a:1:{i:0;a:10:{s:2:\"do\";s:1:\"1\";s:8:\"postType\";s:1:\"I\";s:10:\"AttachPost\";s:1:\"2\";s:10:\"SNAPformat\";s:32:\"%TITLE% - %CATS%\r\n\r\n%RAWEXCERPT%\";s:9:\"isAutoImg\";s:1:\"A\";s:8:\"imgToUse\";s:0:\"\";s:9:\"isAutoURL\";s:1:\"A\";s:8:\"urlToUse\";s:0:\"\";s:4:\"doFB\";s:1:\"1\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "snapIP": [
+                    "s:235:\"a:1:{i:0;a:8:{s:2:\"do\";s:1:\"1\";s:11:\"SNAPformatT\";s:7:\"%TITLE%\";s:10:\"SNAPformat\";s:9:\"%EXCERPT%\";s:4:\"doIP\";s:1:\"1\";s:11:\"isPrePosted\";s:1:\"1\";s:8:\"isPosted\";s:1:\"1\";s:4:\"pgID\";s:9:\"731649545\";s:5:\"pDate\";s:19:\"2016-06-02 22:09:58\";}}\";"
+                ],
+                "snapTW": [
+                    "s:297:\"a:1:{i:0;a:10:{s:2:\"do\";s:1:\"1\";s:10:\"SNAPformat\";s:23:\"%TITLE% -%CATS% \r\n%URL%\";s:8:\"attchImg\";s:1:\"1\";s:9:\"isAutoImg\";s:1:\"A\";s:8:\"imgToUse\";s:0:\"\";s:4:\"doTW\";s:1:\"1\";s:11:\"isPrePosted\";s:1:\"1\";s:8:\"isPosted\";s:1:\"1\";s:4:\"pgID\";s:18:\"738492873973207040\";s:5:\"pDate\";s:19:\"2016-06-02 22:09:58\";}}\";"
+                ],
+                "snapImportedComments": [
+                    "a:0:{}"
+                ]
+            },
+            "thumbnail_size": "thumbnail",
+            "thumbnail_images": {
+                "full": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/server-image.jpg",
+                    "width": 738,
+                    "height": 519
+                },
+                "medium": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/server-image-620x436.jpg",
+                    "width": 620,
+                    "height": 436
+                },
+                "medium_large": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/server-image.jpg",
+                    "width": 738,
+                    "height": 519
+                },
+                "large": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/server-image.jpg",
+                    "width": 738,
+                    "height": 519
+                },
+                "vce-lay-a": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/server-image.jpg",
+                    "width": 738,
+                    "height": 519
+                },
+                "vce-lay-a-nosid": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/server-image.jpg",
+                    "width": 738,
+                    "height": 519
+                },
+                "vce-lay-b": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/server-image-375x195.jpg",
+                    "width": 375,
+                    "height": 195
+                },
+                "vce-lay-d": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/server-image-145x100.jpg",
+                    "width": 145,
+                    "height": 100
+                },
+                "vce-fa-full": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/server-image-738x500.jpg",
+                    "width": 738,
+                    "height": 500
+                },
+                "vce-fa-grid": {
+                    "url": "http://stacktips.com/wp-content/uploads/2016/06/server-image-380x260.jpg",
+                    "width": 380,
+                    "height": 260
+                }
+            }
+        },
+               
+        {
+            "id": 6362,
+            "type": "post",
+            "slug": "google-introduce-new-website-designers-tp-learn-material-design",
+            "url": "http://stacktips.com/design/google-introduce-new-website-designers-tp-learn-material-design",
+            "status": "publish",
+            "title": "Google Introduce New Website For Designers to Learn Material Design",
+            "title_plain": "Google Introduce New Website For Designers to Learn Material Design",
+            "content": "<div class='shareaholic-canvas' data-app-id='24995492' data-app='share_buttons' data-title='Google Introduce New Website For Designers to Learn Material Design' data-link='http://stacktips.com/design/google-introduce-new-website-designers-tp-learn-material-design' data-summary='Google has invested hugely on bringing life to design by introducing a complete new design philosophy for visual, motion, and user interaction. They name it as material design.'></div>\n<p>On 7th annual Google I/O developer conference, Google introduced its upcoming android operating system Android Lollypop. One of the key focus of this event was Android Lollypop and and material design. Google has made huge investment for bringing life to design by introducing a complete new design philosophy for visual, motion, and user interaction. They call it as material design!</p>\n<p>Although, Android is one among leading mobile operating system, it was falling behind its competitor iOS when it comes to visual design. Apple&#8217;s design first approach, provides rich and ease to use to experience for smartphone users. Google&#8217;s material design certainly a footstep, towards improvising platform design and to provide rich user experience with visual language.</p>\n<p>Checkout Google&#8217;s <a href=\"http://www.google.com/design/spec/material-design/introduction.html\" target=\"_blank\"><strong>new website</strong></a> that helps application designers and developers to learn and adopt material design principles. Here, you will find all the resources that helps to understand the key elements of material design. It covers the various topics such as, introduction to available android visual components and layouts , platform design guidelines and recommendation, usage of fonts, enabling different accessibility features, patterns and user actions. Hope to see some appealing Android L applications soon on Google Play!</p>\n<p>[col type=&#8221;half&#8221;]</p>\n<div style=\"width: 640px; \" class=\"wp-video\"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]--><br />\n<video class=\"wp-video-shortcode\" id=\"video-6362-1\" width=\"640\" height=\"360\" preload=\"metadata\" controls=\"controls\"><source type=\"video/webm\" src=\"http://material-design.storage.googleapis.com/videos/animations-meaningfultransitions-hierarchical_transitions_topLevel_large_xhdpi.webm?_=1\" /><a href=\"http://material-design.storage.googleapis.com/videos/animations-meaningfultransitions-hierarchical_transitions_topLevel_large_xhdpi.webm\">http://material-design.storage.googleapis.com/videos/animations-meaningfultransitions-hierarchical_transitions_topLevel_large_xhdpi.webm</a></video></div>\n<p>[/col]</p>\n<p>[col type=&#8221;half last&#8221;]</p>\n<div style=\"width: 640px; \" class=\"wp-video\"><video class=\"wp-video-shortcode\" id=\"video-6362-2\" width=\"640\" height=\"360\" preload=\"metadata\" controls=\"controls\"><source type=\"video/webm\" src=\"http://material-design.storage.googleapis.com/videos/animation-meaningfultransitions-view_contact_large_xhdpi.webm?_=2\" /><a href=\"http://material-design.storage.googleapis.com/videos/animation-meaningfultransitions-view_contact_large_xhdpi.webm\">http://material-design.storage.googleapis.com/videos/animation-meaningfultransitions-view_contact_large_xhdpi.webm</a></video></div>\n<p>[/col]</p>\n<p>&nbsp;</p>\n",
+            "excerpt": "<p>Google has invested hugely on bringing life to design by introducing a complete new design philosophy for visual, motion, and user interaction. They name it as material design.</p>\n",
+            "date": "2014-10-18 05:13:45",
+            "modified": "2016-05-29 19:22:56",
+            "categories": [
+                {
+                    "id": 151,
+                    "slug": "blog",
+                    "title": "Blog",
+                    "description": "",
+                    "parent": 0,
+                    "post_count": 26
+                },
+                {
+                    "id": 149,
+                    "slug": "design",
+                    "title": "Design",
+                    "description": "",
+                    "parent": 0,
+                    "post_count": 6
+                },
+                {
+                    "id": 284,
+                    "slug": "news",
+                    "title": "News &amp; Updates",
+                    "description": "",
+                    "parent": 0,
+                    "post_count": 32
+                }
+            ],
+            "tags": [
+                {
+                    "id": 259,
+                    "slug": "android",
+                    "title": "Android",
+                    "description": "",
+                    "post_count": 1
+                },
+                {
+                    "id": 164,
+                    "slug": "android-l",
+                    "title": "Android L",
+                    "description": "",
+                    "post_count": 2
+                },
+                {
+                    "id": 165,
+                    "slug": "material-design",
+                    "title": "Material Design",
+                    "description": "",
+                    "post_count": 3
+                }
+            ],
+            "author": {
+                "id": 854,
+                "slug": "guest",
+                "name": "Guest",
+                "first_name": "Guest",
+                "last_name": "Blogger",
+                "nickname": "guest",
+                "url": "",
+                "description": ""
+            },
+            "comments": [],
+            "attachments": [
+                {
+                    "id": 6364,
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi.png",
+                    "slug": "materialdesign-goals-landingimage_large_mdpi",
+                    "title": "materialdesign-goals-landingimage_large_mdpi",
+                    "description": "",
+                    "caption": "",
+                    "parent": 6362,
+                    "mime_type": "image/png",
+                    "images": {
+                        "full": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184279612.png",
+                            "width": 248,
+                            "height": 150
+                        },
+                        "medium": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184204955-620x370.png",
+                            "width": 620,
+                            "height": 370
+                        },
+                        "medium_large": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184279612.png",
+                            "width": 248,
+                            "height": 150
+                        },
+                        "shareaholic-thumbnail": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184279612.png",
+                            "width": 248,
+                            "height": 150
+                        },
+                        "vce-lay-a": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184279612.png",
+                            "width": 248,
+                            "height": 150
+                        },
+                        "vce-lay-a-nosid": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184279612.png",
+                            "width": 248,
+                            "height": 150
+                        },
+                        "vce-lay-b": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184279612.png",
+                            "width": 248,
+                            "height": 150
+                        },
+                        "vce-fa-full": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184279612.png",
+                            "width": 248,
+                            "height": 150
+                        },
+                        "vce-fa-grid": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184279612.png",
+                            "width": 248,
+                            "height": 150
+                        }
+                    }
+                }
+            ],
+            "comment_count": 0,
+            "comment_status": "open",
+            "thumbnail": null,
+            "custom_fields": {
+                "post_options": [
+                    "a:5:{s:8:\"sb_usage\";s:15:\"default-sidebar\";s:9:\"hwa_usage\";s:17:\"default-headerbar\";s:8:\"pf_video\";s:0:\"\";s:8:\"ad_above\";s:0:\"\";s:8:\"ad_below\";s:0:\"\";}"
+                ],
+                "page_options": [
+                    "a:2:{s:8:\"sb_usage\";s:15:\"default-sidebar\";s:9:\"hwa_usage\";s:17:\"default-headerbar\";}"
+                ],
+                "snap_isAutoPosted": [
+                    "1"
+                ],
+                "enclosure": [
+                    "http://material-design.storage.googleapis.com/videos/animations-meaningfultransitions-hierarchical_transitions_topLevel_large_xhdpi.webm\r\n343049\r\nvideo/webm\r\n",
+                    "http://material-design.storage.googleapis.com/videos/animation-meaningfultransitions-view_contact_large_xhdpi.webm\r\n408719\r\nvideo/webm\r\n"
+                ],
+                "snapFF": [
+                    "s:182:\"a:1:{i:0;a:6:{s:4:\"doFF\";s:1:\"1\";s:8:\"attchImg\";s:1:\"0\";s:10:\"SNAPformat\";s:25:\"%TITLE% - %URL% %EXCERPT%\";s:9:\"isAutoImg\";s:1:\"A\";s:8:\"imgToUse\";s:0:\"\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "snapLI": [
+                    "s:292:\"a:1:{i:0;a:9:{s:4:\"doLI\";s:1:\"1\";s:10:\"AttachPost\";s:1:\"1\";s:10:\"SNAPformat\";s:41:\"New post has been published on %SITENAME%\";s:11:\"SNAPformatT\";s:18:\"New Post - %TITLE%\";s:9:\"isAutoImg\";s:1:\"A\";s:8:\"imgToUse\";s:0:\"\";s:9:\"isAutoURL\";s:1:\"A\";s:8:\"urlToUse\";s:0:\"\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "snapTR": [
+                    "s:554:\"a:1:{i:0;a:13:{s:4:\"doTR\";s:1:\"1\";s:12:\"apTRPostType\";s:1:\"T\";s:11:\"SNAPTformat\";s:20:\"%TITLE% - %SITENAME%\";s:10:\"SNAPformat\";s:141:\"<blockquote><p>New Post has been published on %URL%</p></blockquote><p><strong>%TITLE%</strong></p><p><img src='%IMG%'/></p><p>%FULLTEXT%</p>\";s:9:\"isAutoImg\";s:1:\"A\";s:8:\"imgToUse\";s:0:\"\";s:9:\"isAutoURL\";s:1:\"A\";s:8:\"urlToUse\";s:0:\"\";s:11:\"isPrePosted\";s:1:\"1\";s:8:\"isPosted\";s:1:\"1\";s:4:\"pgID\";i:100276874056;s:7:\"postURL\";s:46:\"http://javatechig.tumblr.com/post/100276874056\";s:5:\"pDate\";s:19:\"2014-10-17 23:43:49\";}}\";"
+                ],
+                "snapDI": [
+                    "s:133:\"a:1:{i:0;a:4:{s:4:\"doDI\";s:1:\"1\";s:11:\"SNAPformatT\";s:7:\"%TITLE%\";s:10:\"SNAPformat\";s:12:\"%RAWEXCERPT%\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "snapBG": [
+                    "s:164:\"a:1:{i:0;a:4:{s:4:\"doBG\";s:1:\"1\";s:11:\"SNAPTformat\";s:7:\"%TITLE%\";s:10:\"SNAPformat\";s:43:\"%FULLTEXT% <br/><a href='%URL%'>%TITLE%</a>\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "snapDA": [
+                    "s:131:\"a:1:{i:0;a:4:{s:4:\"doDA\";s:1:\"1\";s:11:\"SNAPformatT\";s:7:\"%TITLE%\";s:10:\"SNAPformat\";s:10:\"%FULLTEXT%\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "snapSU": [
+                    "s:154:\"a:1:{i:0;a:5:{s:4:\"doSU\";s:1:\"1\";s:7:\"apSUCat\";s:10:\"Technology\";s:4:\"nsfw\";s:1:\"0\";s:10:\"SNAPformat\";s:15:\"%TITLE% - %URL%\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "dsq_thread_id": [
+                    "3128549949"
+                ],
+                "post_views_count": [
+                    "1724"
+                ],
+                "fsb_social_facebook": [
+                    "1"
+                ],
+                "fsb_social_twitter": [
+                    "0"
+                ],
+                "fsb_social_google": [
+                    "8"
+                ],
+                "fsb_social_linkedin": [
+                    "0"
+                ],
+                "slide_template": [
+                    "default"
+                ],
+                "snap_MYURL": [
+                    ""
+                ],
+                "snapEdIT": [
+                    "1"
+                ],
+                "snapDL": [
+                    "s:264:\"a:1:{i:0;a:9:{s:4:\"doDL\";s:1:\"1\";s:11:\"SNAPformatT\";s:7:\"%TITLE%\";s:10:\"SNAPformat\";s:12:\"%RAWEXCERPT%\";s:11:\"isPrePosted\";s:1:\"1\";s:2:\"do\";s:1:\"1\";s:10:\"msgTFormat\";s:7:\"%TITLE%\";s:9:\"msgFormat\";s:12:\"%RAWEXCERPT%\";s:9:\"isAutoURL\";s:1:\"A\";s:8:\"urlToUse\";s:0:\"\";}}\";"
+                ],
+                "snapFB": [
+                    "s:272:\"a:1:{i:0;a:10:{s:4:\"doFB\";i:0;s:8:\"postType\";s:1:\"A\";s:10:\"AttachPost\";s:1:\"2\";s:10:\"SNAPformat\";s:33:\"%TITLE% - #%CATS%\r\n\r\n%RAWEXCERPT%\";s:9:\"isAutoImg\";s:1:\"A\";s:8:\"imgToUse\";s:0:\"\";s:9:\"isAutoURL\";s:1:\"A\";s:8:\"urlToUse\";s:0:\"\";s:11:\"isPrePosted\";s:1:\"1\";s:2:\"do\";i:0;}}\";"
+                ],
+                "snapIP": [
+                    "s:138:\"a:1:{i:0;a:5:{s:4:\"doIP\";i:0;s:11:\"SNAPformatT\";s:7:\"%TITLE%\";s:10:\"SNAPformat\";s:9:\"%EXCERPT%\";s:11:\"isPrePosted\";s:1:\"1\";s:2:\"do\";i:0;}}\";"
+                ],
+                "snapTW": [
+                    "s:190:\"a:1:{i:0;a:7:{s:4:\"doTW\";i:0;s:10:\"SNAPformat\";s:24:\"%TITLE% -#%CATS% \r\n%URL%\";s:8:\"attchImg\";s:1:\"1\";s:9:\"isAutoImg\";s:1:\"A\";s:8:\"imgToUse\";s:0:\"\";s:11:\"isPrePosted\";s:1:\"1\";s:2:\"do\";i:0;}}\";"
+                ]
+            },
+            "thumbnail_size": "thumbnail",
+            "thumbnail_images": {
+                "full": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184279612.png",
+                    "width": 248,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184204955-620x370.png",
+                    "width": 620,
+                    "height": 370
+                },
+                "medium_large": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184279612.png",
+                    "width": 248,
+                    "height": 150
+                },
+                "shareaholic-thumbnail": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184279612.png",
+                    "width": 248,
+                    "height": 150
+                },
+                "vce-lay-a": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184279612.png",
+                    "width": 248,
+                    "height": 150
+                },
+                "vce-lay-a-nosid": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184279612.png",
+                    "width": 248,
+                    "height": 150
+                },
+                "vce-lay-b": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184279612.png",
+                    "width": 248,
+                    "height": 150
+                },
+                "vce-fa-full": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184279612.png",
+                    "width": 248,
+                    "height": 150
+                },
+                "vce-fa-grid": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/materialdesign-goals-landingimage_large_mdpi-e1415184279612.png",
+                    "width": 248,
+                    "height": 150
+                }
+            }
+        },
+        {
+            "id": 6272,
+            "type": "post",
+            "slug": "export-mbox-outlook-format",
+            "url": "http://stacktips.com/reviews/export-mbox-outlook-format",
+            "status": "publish",
+            "title": "Sponsored : How to Export MBOX into Outlook Format",
+            "title_plain": "Sponsored : How to Export MBOX into Outlook Format",
+            "content": "<div class='shareaholic-canvas' data-app-id='24995492' data-app='share_buttons' data-title='Sponsored : How to Export MBOX into Outlook Format' data-link='http://stacktips.com/reviews/export-mbox-outlook-format' data-summary='MBOX/MBX it is one of the recommended file format to export and backup outlook mails. It is highly useful simple and easy to use file format that allow users to organize and store e-mail messages on hard drive.'></div>\n<p>MBOX/MBX it is one of the recommended file format to export and backup outlook mails.  It is highly useful simple and easy to use file format that allow users to organize and store e-mail messages on hard drive. MBOX widely accepted by popular emil client applications such as AppleMail, MozzilaMail, Thunderbird, Entourage, Spicebird, Pocomail, Eudora, Mulberry, SeaMonkey, Netscape, ClawsMail, OperaMail, Evolution, Sylpheed, Cone, Mutt and Gnu Mail, etc.</p>\n<p>In MBOX format all messages for each mailbox are stored as a single text file in a string of concatenated email messages, starting with the “Form” header of the message. This creates more or less long text file containing one email messages after the other. Many Organizations used this MBOX format as it provides expert feature that make a professional choice. This file format is mostly used for business purpose.</p>\n<h1>Corruption Reasons in MBOX File</h1>\n<p>Due to accumulate or adding lots of data in mailbox, sometime there is a chance to get corrupted but it is not just the only reason, there are various other possible reasons that may corrupt your data. Once MBOX file is corrupted, we can’t access or read MBOX containing emails.</p>\n<p>CorruptedMBOX file are pretty troublesome to agitate. Once corrupted MBOX has to be fastidiously examined and repaired with applicable solution. Its nearly not possible to use a short lived resolution to a corrupted MBOX files and access it. There it’s advised that user to conversion is necessary. Otherwise keep a backup copy of every and each mailbox data. But due to some reasons if you want to switch back to other file format, in such circumstances, you will need a reliable solution that convert their MBOX format to another desired one format.</p>\n<p>Many users face various unintentional problems while performing MBOX to Outlook conversion. It can be an unintentional changes to file, malfunctioning in software, corruption in MBOX files, virus invasions, etc. Below are some of the foremost reasons that may corrupt  a MBOX backup file.</p>\n<ul>\n<li>Corruption in Thunderbird Profile</li>\n<li>Malicious Virus attacks on MBOX file</li>\n<li>Corruption due to email clients application, can also corrupt mails during execution time or not open properly</li>\n<li>Sometime the tool is used by a person contains the issues which corrupt PDF file during the saving process.</li>\n<li>In numerous circumstances like –high voltage or power fluctuation, hard disk corruption</li>\n</ul>\n<p>Below are some of the typical errors messages shown to by the email client application perpetually indicates regarding the failure of a MBOX file</p>\n<ul>\n<li>Damaged MBOX file or corruption in email messages</li>\n<li>Corruption occurs email opening due to Thunderbird crash</li>\n<li>Error opening emails</li>\n<li>Missing header</li>\n<li>Errors in the MBOX format</li>\n<li>Error processing emails</li>\n<li>The file contains invalid coding</li>\n<li>Delivering messages to MBOXCL2 format mailboxes with MBOXO or MBOXRD tools will corrupt the mailbox, rendering all subsequently delivered messages</li>\n</ul>\n<p>If you are struggling to transfer mails or having suspicious problems, you may still be able to recover/repair it by using a reliable MBOX to PST converter tool that can restore various types of corrupted MBOX problems. There are various tools out there in market, but my pick is IBID Info MBOX to PST converter tool.</p>\n<h2>Recover Message from Corrupt MBOX Folder</h2>\n<p>In the course of this article, we will see some of the steps that help you to resolve MBOX file corruption related issues. In short tips to recover and repair MBOX/MBX.</p>\n<p>First step towards recovering MBOX file is to understand the basic structure of MBOX file. MBOX file stores their data in one single file so number of times the size of MBOX file can become exceeding or become over size. Any types of corruption in this MBOX file may effect the ability of accessing or opening individual messages or open all folder.</p>\n<p>If MBOX file is not badly corrupted you can work around the problem by deleting the index folder or compact the folder or moving all messages another one folder. Like replace corrupt folder to fresh one folder but what to do when this trick doesn’t work and you cannot recover all your messages.</p>\n<p>Download <a href=\"http://www.ibidinfo.com/product/mbox-to-pst-converter.html\" target=\"_blank\">IBID Info MBOX to Outlook Converter</a> tool and repair MBOX Free with this.IBID Info MBOX to PST Converter software, makes corrupted MBOX file recovery effortless. This works as one of the reliable tools with a better success rate. This online utility supports the file repairing process of any format of MBOX file like MBOXO, MBOXRD, &amp;MBOXCL2 etc.</p>\n<p>Highlights of IBID Info MBOX Outlook Converter</p>\n<ol>\n<li>Fix all of the problem and repair corrupt MBOX file make accessible in MS Outlook when you perform secure conversion of MBOX to PST format.</li>\n<li>Fixes all issues and convert MBOX file to PST, MSG and EML in batch</li>\n<li>Preserves the original formatting of email messages.</li>\n<li>Convert emails with attachments and merge various MBOX file to single PST</li>\n</ol>\n<p>Follow though the quick steps for converting MBOX to PST format.</p>\n<ol>\n<li>Choose a MBOX file</li>\n<li>You can select any of MBOX/MacMBOX/MBX/AppleMail files to be convert into PST Format</li>\n<li>Add MBOX file</li>\n<li>Preview data of selected MBOX file</li>\n<li>Export MBOX to PST format</li>\n</ol>\n",
+            "excerpt": "<p>MBOX/MBX it is one of the recommended file format to export and backup outlook mails.  It is highly useful simple and easy to use file format that allow users to organize and store e-mail messages on hard drive.</p>\n",
+            "date": "2014-10-14 03:46:10",
+            "modified": "2015-03-28 19:55:49",
+            "categories": [
+                {
+                    "id": 151,
+                    "slug": "blog",
+                    "title": "Blog",
+                    "description": "",
+                    "parent": 0,
+                    "post_count": 26
+                },
+                {
+                    "id": 117,
+                    "slug": "reviews",
+                    "title": "Reviews",
+                    "description": "",
+                    "parent": 0,
+                    "post_count": 8
+                }
+            ],
+            "tags": [],
+            "author": {
+                "id": 854,
+                "slug": "guest",
+                "name": "Guest",
+                "first_name": "Guest",
+                "last_name": "Blogger",
+                "nickname": "guest",
+                "url": "",
+                "description": ""
+            },
+            "comments": [],
+            "attachments": [
+                {
+                    "id": 6274,
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst.png",
+                    "slug": "ibid-mbox-to-pst",
+                    "title": "ibid-mbox-to-pst",
+                    "description": "",
+                    "caption": "Android Tutorials",
+                    "parent": 6272,
+                    "mime_type": "image/png",
+                    "images": {
+                        "full": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                            "width": 248,
+                            "height": 141
+                        },
+                        "medium": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                            "width": 248,
+                            "height": 141
+                        },
+                        "medium_large": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                            "width": 248,
+                            "height": 141
+                        },
+                        "large": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                            "width": 248,
+                            "height": 141
+                        },
+                        "shareaholic-thumbnail": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                            "width": 248,
+                            "height": 141
+                        },
+                        "vce-lay-a": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                            "width": 248,
+                            "height": 141
+                        },
+                        "vce-lay-a-nosid": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                            "width": 248,
+                            "height": 141
+                        },
+                        "vce-lay-b": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                            "width": 248,
+                            "height": 141
+                        },
+                        "vce-fa-full": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                            "width": 248,
+                            "height": 141
+                        },
+                        "vce-fa-grid": {
+                            "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                            "width": 248,
+                            "height": 141
+                        }
+                    }
+                }
+            ],
+            "comment_count": 0,
+            "comment_status": "open",
+            "thumbnail": null,
+            "custom_fields": {
+                "post_options": [
+                    "a:5:{s:8:\"sb_usage\";s:15:\"default-sidebar\";s:9:\"hwa_usage\";s:17:\"default-headerbar\";s:8:\"pf_video\";s:0:\"\";s:8:\"ad_above\";s:0:\"\";s:8:\"ad_below\";s:0:\"\";}"
+                ],
+                "page_options": [
+                    "a:2:{s:8:\"sb_usage\";s:15:\"default-sidebar\";s:9:\"hwa_usage\";s:17:\"default-headerbar\";}"
+                ],
+                "snap_isAutoPosted": [
+                    "1"
+                ],
+                "dsq_thread_id": [
+                    "3113820787"
+                ],
+                "snap_MYURL": [
+                    ""
+                ],
+                "snapEdIT": [
+                    "1"
+                ],
+                "snapBG": [
+                    "s:164:\"a:1:{i:0;a:4:{s:4:\"doBG\";s:1:\"1\";s:11:\"SNAPTformat\";s:7:\"%TITLE%\";s:10:\"SNAPformat\";s:43:\"%FULLTEXT% <br/><a href='%URL%'>%TITLE%</a>\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "snapDA": [
+                    "s:131:\"a:1:{i:0;a:4:{s:4:\"doDA\";s:1:\"1\";s:11:\"SNAPformatT\";s:7:\"%TITLE%\";s:10:\"SNAPformat\";s:10:\"%FULLTEXT%\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "snapDI": [
+                    "s:133:\"a:1:{i:0;a:4:{s:4:\"doDI\";s:1:\"1\";s:11:\"SNAPformatT\";s:7:\"%TITLE%\";s:10:\"SNAPformat\";s:12:\"%RAWEXCERPT%\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "snapDL": [
+                    "s:133:\"a:1:{i:0;a:4:{s:4:\"doDL\";s:1:\"1\";s:11:\"SNAPformatT\";s:7:\"%TITLE%\";s:10:\"SNAPformat\";s:12:\"%RAWEXCERPT%\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "snapFB": [
+                    "s:262:\"a:1:{i:0;a:9:{s:4:\"doFB\";s:1:\"1\";s:8:\"postType\";s:1:\"A\";s:10:\"AttachPost\";s:1:\"2\";s:10:\"SNAPformat\";s:33:\"%TITLE% - #%CATS%\r\n\r\n%RAWEXCERPT%\";s:9:\"isAutoImg\";s:1:\"A\";s:8:\"imgToUse\";s:0:\"\";s:9:\"isAutoURL\";s:1:\"A\";s:8:\"urlToUse\";s:0:\"\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "snapFF": [
+                    "s:182:\"a:1:{i:0;a:6:{s:4:\"doFF\";s:1:\"1\";s:8:\"attchImg\";s:1:\"0\";s:10:\"SNAPformat\";s:25:\"%TITLE% - %URL% %EXCERPT%\";s:9:\"isAutoImg\";s:1:\"A\";s:8:\"imgToUse\";s:0:\"\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "snapIP": [
+                    "s:129:\"a:1:{i:0;a:4:{s:4:\"doIP\";s:1:\"1\";s:11:\"SNAPformatT\";s:7:\"%TITLE%\";s:10:\"SNAPformat\";s:9:\"%EXCERPT%\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "snapLI": [
+                    "s:292:\"a:1:{i:0;a:9:{s:4:\"doLI\";s:1:\"1\";s:10:\"AttachPost\";s:1:\"1\";s:10:\"SNAPformat\";s:41:\"New post has been published on %SITENAME%\";s:11:\"SNAPformatT\";s:18:\"New Post - %TITLE%\";s:9:\"isAutoImg\";s:1:\"A\";s:8:\"imgToUse\";s:0:\"\";s:9:\"isAutoURL\";s:1:\"A\";s:8:\"urlToUse\";s:0:\"\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "snapSU": [
+                    "s:154:\"a:1:{i:0;a:5:{s:4:\"doSU\";s:1:\"1\";s:7:\"apSUCat\";s:10:\"Technology\";s:4:\"nsfw\";s:1:\"0\";s:10:\"SNAPformat\";s:15:\"%TITLE% - %URL%\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "snapTR": [
+                    "s:552:\"a:1:{i:0;a:13:{s:4:\"doTR\";s:1:\"1\";s:12:\"apTRPostType\";s:1:\"T\";s:11:\"SNAPTformat\";s:20:\"%TITLE% - %SITENAME%\";s:10:\"SNAPformat\";s:141:\"<blockquote><p>New Post has been published on %URL%</p></blockquote><p><strong>%TITLE%</strong></p><p><img src='%IMG%'/></p><p>%FULLTEXT%</p>\";s:9:\"isAutoImg\";s:1:\"A\";s:8:\"imgToUse\";s:0:\"\";s:9:\"isAutoURL\";s:1:\"A\";s:8:\"urlToUse\";s:0:\"\";s:11:\"isPrePosted\";s:1:\"1\";s:8:\"isPosted\";s:1:\"1\";s:4:\"pgID\";i:99941888601;s:7:\"postURL\";s:45:\"http://javatechig.tumblr.com/post/99941888601\";s:5:\"pDate\";s:19:\"2014-10-13 22:16:48\";}}\";"
+                ],
+                "snapTW": [
+                    "s:181:\"a:1:{i:0;a:6:{s:4:\"doTW\";s:1:\"1\";s:10:\"SNAPformat\";s:24:\"%TITLE% -#%CATS% \r\n%URL%\";s:8:\"attchImg\";s:1:\"1\";s:9:\"isAutoImg\";s:1:\"A\";s:8:\"imgToUse\";s:0:\"\";s:11:\"isPrePosted\";s:1:\"1\";}}\";"
+                ],
+                "post_views_count": [
+                    "1356"
+                ],
+                "fsb_social_facebook": [
+                    "3"
+                ],
+                "fsb_social_twitter": [
+                    "4"
+                ],
+                "fsb_social_google": [
+                    "1"
+                ],
+                "fsb_social_linkedin": [
+                    "0"
+                ]
+            },
+            "thumbnail_size": "thumbnail",
+            "thumbnail_images": {
+                "full": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                    "width": 248,
+                    "height": 141
+                },
+                "medium": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                    "width": 248,
+                    "height": 141
+                },
+                "medium_large": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                    "width": 248,
+                    "height": 141
+                },
+                "large": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                    "width": 248,
+                    "height": 141
+                },
+                "shareaholic-thumbnail": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                    "width": 248,
+                    "height": 141
+                },
+                "vce-lay-a": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                    "width": 248,
+                    "height": 141
+                },
+                "vce-lay-a-nosid": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                    "width": 248,
+                    "height": 141
+                },
+                "vce-lay-b": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                    "width": 248,
+                    "height": 141
+                },
+                "vce-fa-full": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                    "width": 248,
+                    "height": 141
+                },
+                "vce-fa-grid": {
+                    "url": "http://stacktips.com/wp-content/uploads/2014/10/ibid-mbox-to-pst-e1415185134160.png",
+                    "width": 248,
+                    "height": 141
+                }
+            }
+        } 
+        
+    ]
+}
